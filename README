@@ -1,0 +1,23 @@
+= Ghaki Ext File - Ghaki core File extensions
+
+Ghaki Ext File is a collection of core File extensions.
+
+== Download
+
+The latest version of Ghaki Ext File can be found at
+
+* git@github.com:ghaki/ghaki-ext-file.git
+
+== Installation
+
+The preferred method of installing Ghaki Ext File is through its GEM file.
+
+  % [sudo] gem install ghaki-ext-file-0.0.1.gem
+
+== License
+
+Ghaki Ext File is released under the MIT license.
+
+== Support
+
+Contact mailto:gerald@kalafut.org
